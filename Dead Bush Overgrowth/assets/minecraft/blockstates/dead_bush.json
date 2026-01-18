@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/dead_bush", "weight": 100 },
+      { "model": "minecraft:block/dead_bush", "y": 90 },
+      { "model": "minecraft:block/dead_bush", "y": 180 },
+      { "model": "minecraft:block/dead_bush", "y": 270 },
+      { "model": "minecraft:block/dead_bush/dead_bush1", "weight": 10 },
+      { "model": "minecraft:block/dead_bush2", "weight": 10 },
+      { "model": "minecraft:block/dead_bush2", "y": 90 },
+      { "model": "minecraft:block/dead_bush2", "y": 180 },
+      { "model": "minecraft:block/dead_bush2", "y": 270 },
+      { "model": "minecraft:block/dead_bush3", "weight": 10 },
+      { "model": "minecraft:block/dead_bush3", "y": 90 },
+      { "model": "minecraft:block/dead_bush3", "y": 180 },
+      { "model": "minecraft:block/dead_bush3", "y": 270 },
+      { "model": "minecraft:block/dead_bush4", "weight": 10 },
+      { "model": "minecraft:block/dead_bush4", "y": 90, "weight": 10 },
+      { "model": "minecraft:block/dead_bush4", "y": 180, "weight": 10 },
+      { "model": "minecraft:block/dead_bush4", "y": 270, "weight": 10 },
+      { "model": "block/dead_bush/dead_bush5", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush6", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush7", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush8", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush9", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush10", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush11", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush12", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush13", "weight": 10 },
+      { "model": "block/dead_bush/dead_bush14", "weight": 10 }
+    ]
+  }
+}
